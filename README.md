@@ -11,7 +11,7 @@ A simple file storage application built with Next.js, Clerk, Neon, Drizzle, and 
 
 ## Tech Stack
 
-- **Frontend**: Next.js, HeroUI
+- **Frontend**: [Next.js](https://nextjs.org/), [HeroUI](https://www.heroui.com/)
 - **Authentication**: [Clerk](https://clerk.dev/) 
 - **Database**: [Neon-PostgreSQL](https://neon.tech/)
 - **ORM**: [Drizzle](https://orm.drizzle.team/)
